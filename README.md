@@ -230,10 +230,10 @@ This is a basic setup to get you started. Depending on your application needs, y
 
 
 
-You said:
+
 is it everything I need to do to authenticate and authorize user 
-ChatGPT said:
-ChatGPT
+
+
 The setup provided covers the core aspects of integrating OpenID Connect (OIDC) with a React application using the oidc-client library, but there are additional considerations and best practices you should be aware of for a complete and secure implementation. Here’s a more comprehensive list of what you might need to address:
 
 1. Error Handling and Edge Cases
