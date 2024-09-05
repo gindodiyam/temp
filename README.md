@@ -1,6 +1,5 @@
 oidc-client with react application
-ChatGPT said:
-ChatGPT
+
 When integrating OpenID Connect (OIDC) with a React application, the oidc-client library is a popular choice to handle authentication and authorization. Here's a step-by-step guide to set up oidc-client with your React application:
 
 1. Install Dependencies
